@@ -9,5 +9,6 @@ public class GitController {
     public static void main(String[] args) {
 
         System.out.println("aaa 李四");
+        System.out.println("aaa 张三");
     }
 }
