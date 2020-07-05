@@ -6,8 +6,8 @@ package cn.itcast.controller;
  * @Version 1.0
  */
 public class GitController {
-
     public static void main(String[] args) {
 
+        System.out.println("aaa");
     }
 }
